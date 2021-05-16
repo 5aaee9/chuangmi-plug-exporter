@@ -2,5 +2,8 @@
     "xiaomi": {
         "ip": "yourip",
         "token": "yourtoken"
+    },
+    "http": {
+        "port": 3000
     }
 }

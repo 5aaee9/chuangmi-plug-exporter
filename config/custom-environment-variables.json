@@ -1,0 +1,9 @@
+{
+    "xiaomi": {
+        "ip": "XIAOMI_IP",
+        "token": "XIAOMI_TOKEN"
+    },
+    "http": {
+        "port": "HTTP_PORT"
+    }
+}
